@@ -6,6 +6,7 @@ how to use?
 * npm install 
 * npm install nodemon
 * nodemon app 
+* configure your conexion database in .env
 
 
 easy.
